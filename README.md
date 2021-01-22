@@ -1,2 +1,3 @@
 # hello-world
-Brens FOray into Git Hub
+Brens Foray into Git Hub
+My name is brendan and I am on the worng course
